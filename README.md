@@ -7,4 +7,4 @@ This is a manually sub-setted cartographic shapefile from the TIGER ftp server a
 
 [Here is a link to Mike Bostock's "CLI Cartography" article that helped me understand these tools](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c)
 
-<img src="https://github.com/alanoakes/cliCartoWorkflow/raw/master/Shelby%20County%20Tracts.PNG" alt="Shelby County Albers" width="600" height="600">
+<img src="https://raw.githubusercontent.com/alanoakes/cliCartoWorkflow/master/Shelby%20County%20Tracts.PNG" alt="https://raw.githubusercontent.com/alanoakes/cliCartoWorkflow/master/Shelby%20County%20Tracts.PNG" class="transparent shrinkToFit" width="552" height="445">
